@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 /* global style  */
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --mainColor: #ff5c8a;
 }
