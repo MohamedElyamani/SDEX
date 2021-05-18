@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 /* global style  */
-html{
-    scroll-behavior: smooth;
-}
 :root{
     --mainColor: #ff5c8a;
 }
@@ -32,7 +29,9 @@ h1
     font-size: 30px;
     font-weight: bold;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 /* global style  */
 
 /* start header */
